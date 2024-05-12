@@ -88,7 +88,7 @@ let menu = `⌜ *${wm}* ⌟
  ╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
 *┃➤ 👤 Creador : Haru * 
 *┃➤ 👤 Contacto : wa.me/+5493704813556*
-*┃➤ 🧿 Canal : https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP3
+*┃➤ 🧿 Grupo de ventas: https://chat.whatsapp.com/L1UU3fGX4SYGmwivmkglg9
 *┃➤ ⌛ Tiempo activo : #uptime*
  ╰━━━━━━━━━━━━⬣
 
