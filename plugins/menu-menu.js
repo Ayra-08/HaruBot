@@ -75,7 +75,7 @@ await conn.sendMessage(m.chat, {
         text: `*Hey @${m.sender.split`@`[0]} estamos enviando el menu*
 𝘁𝗲𝗻 𝗽𝗮𝗰𝗶𝗲𝗻𝗰𝗶𝗮 𝘆 𝗲𝘃𝗶𝘁𝗮 𝗲𝗹 𝘀𝗽𝗮𝗺 👀
 
-𝐒𝐇𝐀𝐍𝐀 𝐁𝐎𝐓.`,
+𝐇𝐀𝐑𝐔 𝐁𝐎𝐓.`,
         contextInfo: { 
           mentionedJid: [m.sender],
         }
@@ -86,8 +86,8 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let menu = `⌜ *${wm}* ⌟  
 
  ╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
-*┃➤ 👤 Creador : Daniel 🇦🇱* 
-*┃➤ 👤 Soporte : Sopixx*
+*┃➤ 👤 Creador : Haru * 
+*┃➤ 👤 Contacto : wa.me/+5493704813556*
 *┃➤ 🧿 Canal : https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP3
 *┃➤ ⌛ Tiempo activo : #uptime*
  ╰━━━━━━━━━━━━⬣
